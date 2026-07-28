@@ -10,7 +10,7 @@
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-02569B?style=for-the-badge)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0A66C2?style=for-the-badge)
 
-An interactive Power BI dashboard that transforms Walmart retail sales data into actionable business insights through data modeling, DAX calculations, and intuitive visualizations.
+An interactive Power BI dashboard developed to analyze Walmart's retail sales performance using **Power BI**, **Power Query**, and **DAX**. The dashboard provides actionable insights into sales, profitability, regional performance, product trends, and business growth opportunities.
 
 </div>
 
@@ -18,34 +18,18 @@ An interactive Power BI dashboard that transforms Walmart retail sales data into
 
 # 📌 Project Overview
 
-This project analyzes Walmart retail sales data to help business stakeholders monitor sales performance, profitability, customer purchasing trends, and regional performance.
-
-Using **Power BI**, **Power Query**, and **DAX**, the dashboard converts raw transactional data into meaningful insights that support strategic decision-making.
+The Walmart Store Performance Analysis dashboard transforms raw retail sales data into meaningful business insights. It enables stakeholders to monitor key performance indicators, analyze regional sales, identify profitable product categories, and support strategic business decisions through interactive visualizations.
 
 ---
 
 # 🎯 Business Objectives
 
-- Monitor overall Sales, Profit, and Orders
+- Monitor Total Sales, Profit, and Orders
 - Analyze yearly and monthly sales performance
-- Compare regional and state-wise sales
+- Compare state-wise sales distribution
 - Identify top-performing products
 - Evaluate category-wise profitability
-- Generate actionable business recommendations
-
----
-
-# 🖥️ Dashboard Preview
-
-> Add a screenshot of your Power BI dashboard here after uploading it to the repository.
-
-```text
-assets/dashboard-preview.png
-```
-
-```markdown
-![Dashboard Preview](assets/dashboard-preview.png)
-```
+- Support data-driven business decisions
 
 ---
 
@@ -62,25 +46,25 @@ assets/dashboard-preview.png
 
 # 📈 Dashboard Features
 
-- Executive KPI Dashboard
-- Year-wise Sales Analysis
-- Monthly Sales Trend
-- Geographic Sales Distribution
-- State-wise Profit Analysis
-- Top 10 Best-Selling Products
-- Category-wise Profit Distribution
-- Interactive Filters and Slicers
+- 📊 Executive KPI Dashboard
+- 📅 Year-wise Sales Analysis
+- 📈 Monthly Sales Trend
+- 🗺️ Geographic Sales Distribution
+- 🏙️ State-wise Profit Analysis
+- 🏆 Top 10 Best-Selling Products
+- 🍩 Category-wise Profit Distribution
+- 🎛️ Interactive Filters and Slicers
 
 ---
 
 # 💡 Key Business Insights
 
-- Sales increased by over **70%** between 2011 and 2014.
-- California contributes approximately **63%** of the total sales, highlighting a concentration risk.
-- Sales consistently peak during **November and December**, indicating strong seasonal demand.
-- **Bookcases** and **Machines** generate losses despite healthy sales volumes.
-- **Copiers** and **Accessories** are the most profitable product categories.
-- Business expansion should prioritize emerging markets beyond California to reduce dependency on a single region.
+- Sales increased by over **70%** from **2011 to 2014**.
+- California contributes approximately **63%** of total sales.
+- Sales consistently peak during **November and December**.
+- Bookcases and Machines generate losses despite healthy sales.
+- Copiers and Accessories are the most profitable product categories.
+- Expanding into emerging markets can reduce dependence on California.
 
 ---
 
@@ -97,31 +81,6 @@ assets/dashboard-preview.png
 
 ---
 
-# 📂 Repository Structure
-
-```
-walmart-store-performance-analysis-powerbi/
-│
-├── dataset/
-│   └── Walmart_Data.csv
-│
-├── presentation/
-│   └── Walmart-Store-Performance-Analysis.pptx
-│
-├── reports/
-│   └── Walmart-Store-Performance-Analysis.pdf
-│
-├── assets/
-│   └── dashboard-preview.png
-│
-├── Walmart-Store-Performance-Analysis.pbix
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-
----
-
 # 🚀 Skills Demonstrated
 
 - Data Cleaning
@@ -130,32 +89,56 @@ walmart-store-performance-analysis-powerbi/
 - Data Modeling
 - DAX Measures
 - KPI Development
-- Business Intelligence
 - Dashboard Design
+- Business Intelligence
 - Data Visualization
 - Storytelling with Data
 
 ---
 
+# 📂 Repository Structure
+
+```text
+walmart-store-performance-analysis-powerbi/
+│
+├── dataset/
+│   └── Walmart_Data.csv.xlsx
+│
+├── presentation/
+│   └── Walmart-Store-Performance-Analysis.pptx
+│
+├── reports/
+│   └── Walmart-Store-Performance-Analysis.pdf
+│
+├── Walmart-Store-Performance-Analysis.pbix
+├── LICENSE
+├── .gitignore
+└── README.md
+```
+
+---
+
 # 📁 Project Files
 
-- 📊 Power BI Dashboard (`.pbix`)
-- 📑 Dashboard Report (`.pdf`)
-- 🎤 Project Presentation (`.pptx`)
-- 📂 Dataset
-- 🖼️ Dashboard Preview
+| File | Description |
+|------|-------------|
+| 📊 Walmart-Store-Performance-Analysis.pbix | Power BI Dashboard |
+| 📄 Walmart-Store-Performance-Analysis.pdf | Dashboard Report |
+| 🎤 Walmart-Store-Performance-Analysis.pptx | Project Presentation |
+| 📂 Walmart_Data.csv.xlsx | Dataset |
 
 ---
 
 # 🎯 Business Value
 
-This dashboard enables business stakeholders to:
+This dashboard helps business stakeholders:
 
-- Monitor organizational performance in real time.
-- Identify profitable and loss-making product categories.
-- Track seasonal sales trends.
-- Optimize inventory planning.
-- Support data-driven strategic decision-making.
+- Monitor sales and profitability
+- Identify seasonal trends
+- Analyze regional performance
+- Discover high-performing products
+- Improve inventory planning
+- Support strategic business decisions
 
 ---
 
@@ -163,13 +146,12 @@ This dashboard enables business stakeholders to:
 
 **Himanshi Bhere**
 
-Electronics & Telecommunication Engineering
+🎓 Electronics & Telecommunication Engineering
 
-Aspiring Data Analyst | Cloud Engineer | Platform Engineer
+☁️ Aspiring Cloud Engineer | Data Analyst | Platform Engineer
 
-- GitHub: https://github.com/Himanshi-Bhere
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+🔗 **GitHub:** https://github.com/Himanshi-Bhere
 
 ---
 
-## ⭐ If you found this project interesting, consider giving it a star!
+## ⭐ If you found this project useful, consider giving it a star!
